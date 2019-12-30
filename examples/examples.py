@@ -1,6 +1,6 @@
 import pprint
 import numpy as np
-import pdover2t
+#import pdover2t
 
 ####################################################################
 # Pipe collapse (local buckling - system collapse) according to DNVGL-ST-F101.
